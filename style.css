@@ -1,0 +1,31 @@
+/* Fichier CSS à personnaliser */
+
+body {
+  color: rgb(189, 245, 255);
+  background-color: black;
+  border: rgb(233, 244, 110) ;
+  }
+  
+.special {
+    color: rgb(233, 244, 110);
+    background-color: solid black;
+    border: rgb(131, 215, 232) ;
+  }
+
+.souligne {
+    text-decoration: underline red;
+}
+
+#bloc1 {
+    border: 5px solid rgb(233, 244, 110);
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(189, 245, 255);
+    padding:20px;
+  }
+
+  #monImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
